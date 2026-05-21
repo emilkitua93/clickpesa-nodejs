@@ -1,4 +1,4 @@
-# clickpesa
+# clickpesa-nodejs
 
 Node.js SDK for the [ClickPesa](https://clickpesa.com) payment platform — a direct port of the [Laravel/PHP package](https://github.com/emilkitua93/clickpesa) by Emil Kitua.
 
@@ -262,5 +262,4 @@ No external test runner required — uses Node.js built-in `node:test`.
 ## License
 
 MIT © [Emil Kitua](https://github.com/emilkitua93)
-# clickpesa-nodejs
 # clickpesa-nodejs
